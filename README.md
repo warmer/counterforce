@@ -33,6 +33,6 @@ The MEGA2560 implementation of `fanmgr` is obsolete, and will be removed soon.
 * HiLetGo ESP32-WROOM2:
   * https://raw.githubusercontent.com/espressif/arduino-esp32/gh-pages/package_esp32_index.json
 * HiLetGo ESP8266:
-  * http://arduino.esp8266.com/stable/package_esp8266com_index.jsonhttps://raw.githubusercontent.com/espressif/arduino-esp32/gh-pages/package_esp32_index.json
+  * http://arduino.esp8266.com/stable/package_esp8266com_index.json
 
 ![simple 3970x die diagram](https://github.com/dankamongmen/counterforce/blob/master/doc/3970x.jpg?raw=true)
